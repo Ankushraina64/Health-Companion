@@ -164,10 +164,3 @@ Health Companion is a web application designed to help users monitor and predict
 - **Remedies and Tips**: Offer remedies and health tips based on the user's health data.
 - **More Disease Predictions**: Expand the application to predict risks for additional diseases.
 
-## Contributing
-
-Contributions are welcome! 
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
